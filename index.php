@@ -20,7 +20,7 @@
     <?php 
       print_r($_GET); echo "<br>";
       echo $_GET["name"];
-      $jada = array("syret", "22"); echo "<br>";
+      $jada = array("kaits", "22"); echo "<br>";
       echo $jada[1];
     ?>
 
